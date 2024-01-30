@@ -6,8 +6,6 @@ print("----------------------")
 print("Hello, Vidhya!")
 my_string = "Welcome to Python programming!"
 print(my_string)
-if __name__ == '__main__':
-    print("Hello, World!")
 print(1+1)
 x=5
 
@@ -25,3 +23,6 @@ myset = {1,2,3,4}
 
 len(myset)
 
+
+if __name__ == '__main__':
+    print("Hello, World!")
